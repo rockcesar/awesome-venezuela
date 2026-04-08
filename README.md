@@ -1,0 +1,80 @@
+# Awesome Venezuela 🇻🇪
+
+A collection of open-source projects built by developers from Venezuela. This is a showcase of the talent and interesting work coming out of the Venezuelan dev community across different fields.
+
+## Contents
+
+- [Systems & Runtimes](#systems--runtimes)
+- [P2P & Finance](#p2p--finance)
+- [DevOps & Tools](#devops--tools)
+- [Web & Libraries](#web--libraries)
+- [OSINT & Social](#osint--social)
+- [Legacy & Inactive Projects](#legacy--inactive-projects)
+
+## Systems & Runtimes
+
+### [Nodepp](https://github.com/NodeppOfficial/nodepp)
+**Creator:** [EDBCREPO](https://github.com/EDBCREPO)
+
+This C++ runtime lets you write asynchronous code that runs anywhere from a tiny microcontroller to a cloud server. It bypasses virtual machines and garbage collectors to talk directly to the hardware, which keeps resource usage incredibly low.
+
+### [MicroCoreOS](https://github.com/theanibalos/MicroCoreOS)
+**Creator:** [theanibalos](https://github.com/theanibalos)
+
+Built for AI-assisted development, this microkernel uses a strict "one file, one feature" approach. It generates a live system manifest called `AI_CONTEXT.md` on boot, giving AI agents exactly the context they need to build new features without breaking the architecture.
+
+## P2P & Finance
+
+### [LNp2pBot](https://github.com/lnp2pBot/bot)
+**Creator:** [grunch](https://github.com/grunch)
+
+This Telegram bot handles peer-to-peer Bitcoin trades using the Lightning Network without ever touching your funds. It uses "hold invoices" as a trustless escrow, meaning trades only settle when both sides confirm the fiat payment.
+
+### [Mostro](https://github.com/MostroP2P/mostro)
+**Creator:** [grunch](https://github.com/grunch)
+
+Mostro runs a decentralized P2P exchange on top of the Lightning Network and Nostr. It focuses on censorship resistance and privacy, enabling KYC-free trading with a built-in dispute system that works without a central authority.
+
+## DevOps & Tools
+
+### [AppJail](https://github.com/DtxdF/AppJail)
+**Creator:** [DtxdF](https://github.com/DtxdF)
+
+Manage FreeBSD jails as easily as modern containers with this orchestration framework. It automates complex networking and deployment tasks through a modular setup that doesn't mess with your host's core configuration.
+
+### [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages)
+
+These AppImages are designed to run on practically any Linux distro, even ancient ones. They bundle every single dependency and use a smart fallback system to ensure software keeps working regardless of the host's setup.
+
+### [TatSu](https://github.com/neogeny/TatSu)
+**Creator:** [apalala](https://github.com/apalala)
+
+When regular expressions aren't enough for nested or recursive data, TatSu generates PEG parsers directly from EBNF grammars. It builds clean Abstract Syntax Trees in Python and handles tricky cases like left-recursive rules.
+
+## Web & Libraries
+
+### [remix-auth-auth0](https://github.com/danestves/remix-auth-auth0)
+**Creator:** [danestves](https://github.com/danestves)
+
+This plugin adds Auth0 support to Remix apps by handling the entire OAuth2 cycle. It gives you full control over tokens and session cookies, making it easier to drop enterprise-level security into your web projects.
+
+## OSINT & Social
+
+### [OSINT-D2](https://github.com/Doble-2/osint-d2)
+
+Sweep through usernames and emails across dozens of sources with this intelligence tool. It uses an asynchronous pipeline and AI to turn raw data into structured profiles, which you can then export as polished PDF or HTML reports.
+
+## Legacy & Inactive Projects
+
+These projects are either archived, inactive, or considered legacy.
+
+| Project | Creator | Description | Last Activity |
+| :--- | :--- | :--- | :--- |
+| [Hunter](https://github.com/milmazz/hunter) | [milmazz](https://github.com/milmazz) | Elixir client library for Mastodon and GNU social-compatible platforms. | 4 years ago |
+| [Turpial](https://github.com/satanas/Turpial) | [satanas](https://github.com/satanas) | Lightweight microblogging client with Gtk, Qt, and CLI interfaces. | 10 years ago |
+| [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Experimental x86 operating system and Forth interpreter built from the ground up. | 17 years ago |
+| [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Modular configuration framework for Neovim. Currently undergoing a major refactor and rewrite. | 3 years ago |
+
+## Contributing
+
+If you are Venezuelan and have an open-source project you'd like to showcase, please feel free to open a Pull Request for it to be considered!
