@@ -61,6 +61,7 @@ This plugin adds Auth0 support to Remix apps by handling the entire OAuth2 cycle
 ## OSINT & Social
 
 ### [OSINT-D2](https://github.com/Doble-2/osint-d2)
+**Creator:** [Doble-2](https://github.com/Doble-2)
 
 Sweep through usernames and emails across dozens of sources with this intelligence tool. It uses an asynchronous pipeline and AI to turn raw data into structured profiles, which you can then export as polished PDF or HTML reports.
 

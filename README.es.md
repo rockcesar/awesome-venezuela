@@ -61,6 +61,7 @@ Este plugin añade soporte de Auth0 a las apps de Remix manejando todo el ciclo 
 ## OSINT y Social
 
 ### [OSINT-D2](https://github.com/Doble-2/osint-d2)
+**Creador:** [Doble-2](https://github.com/Doble-2)
 
 Tool de OSINT que reúne información pública basada en usernames y emails. Utiliza un pipeline asíncrono e IA para analizar la raw data y generar perfiles estructurados, permitiendo la exportación de los resultados a formato PDF o HTML.
 
