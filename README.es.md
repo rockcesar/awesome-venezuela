@@ -62,6 +62,7 @@ Mostro ejecuta un exchange P2P descentralizado sobre la Lightning Network y Nost
 Framework para manejar jails de FreeBSD como los containers modernos. Sirve para automatiza tareas complejas de networking y deployment a través de un setup modular que no interfiere con la configuración central del host.
 
 ### [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages)
+**Creador:** [Samueru-sama](https://github.com/Samueru-sama)
 
 Estas AppImages están diseñadas para correr en prácticamente cualquier distro de Linux, incluso en las más antiguas. Empaquetan cada dependency y usan un sistema inteligente de fallback para asegurar que el software siga funcionando sin importar el setup del host.
 
