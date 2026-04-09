@@ -1,5 +1,18 @@
 # Awesome Venezuela 🇻🇪
 
+<p align="center">
+  <img src="BANNER_AV.png" alt="Awesome Venezuela">
+</p>
+
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+  <a href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0">
+  </a>
+</p>
+
 [Read in English](README.md)
 
 Una colección de proyectos open-source creados por developers de Venezuela. Este es un showcase del talento y los proyectos open-source interesantes que surgen de la comunidad dev venezolana en diferentes áreas de la tecnología.
