@@ -27,6 +27,7 @@ Una colección de proyectos open-source creados por developers de Venezuela. Est
 - [P2P y Finanzas](#p2p-y-finanzas)
 - [DevOps y Tools](#devops-y-tools)
 - [Web y Librerías](#web-y-librerías)
+- [Aplicaciones Móviles](#aplicaciones-móviles)
 - [OSINT y Social](#osint-y-social)
 - [Proyectos Legacy e Inactivos](#proyectos-legacy-e-inactivos)
 
@@ -69,7 +70,7 @@ Estas AppImages están diseñadas para correr en prácticamente cualquier distro
 ### [TatSu](https://github.com/neogeny/TatSu)
 **Creador:** [apalala](https://github.com/apalala)
 
-Cuando las expresiones regulares no son suficientes para datos anidados o recursivos, TatSu genera parsers PEG directamente desde gramáticas EBNF. Construye Abstract Syntax Trees limpios en Python y maneja casos complicados como left-recursive rules.
+Generador de parsers PEG que convierte gramáticas EBNF en código Python ejecutable. A diferencia de otros sistemas, puede manejar reglas que se refieren a sí mismas directamente sin entrar en bucles infinitos, y construye árboles de sintaxis (AST) para facilitar el análisis de datos complejos.
 
 ## Web y Librerías
 
@@ -77,6 +78,13 @@ Cuando las expresiones regulares no son suficientes para datos anidados o recurs
 **Creador:** [danestves](https://github.com/danestves)
 
 Este plugin añade soporte de Auth0 a las apps de Remix manejando todo el ciclo de OAuth2. Te da control total sobre los tokens y las session cookies, haciendo más fácil integrar seguridad de nivel enterprise en los proyectos web.
+
+## Aplicaciones Móviles
+
+### [BoomingMusic](https://github.com/mardous/BoomingMusic)
+**Creador:** [mardous](https://github.com/mardous)
+
+Reproductor de música para Android ligero, rápido y repleto de funciones con un diseño Material You moderno. Ofrece soporte para letras sincronizadas palabra por palabra (TTML/LRC), un ecualizador de 15 bandas con perfiles AutoEq e integración nativa con Android Auto.
 
 ## OSINT y Social
 

@@ -27,6 +27,7 @@ A collection of open-source projects built by developers from Venezuela. This is
 - [P2P & Finance](#p2p--finance)
 - [DevOps & Tools](#devops--tools)
 - [Web & Libraries](#web--libraries)
+- [Mobile Apps](#mobile-apps)
 - [OSINT & Social](#osint--social)
 - [Legacy & Inactive Projects](#legacy--inactive-projects)
 
@@ -68,7 +69,7 @@ These AppImages are designed to run on practically any Linux distro, even ancien
 ### [TatSu](https://github.com/neogeny/TatSu)
 **Creator:** [apalala](https://github.com/apalala)
 
-When regular expressions aren't enough for nested or recursive data, TatSu generates PEG parsers directly from EBNF grammars. It builds clean Abstract Syntax Trees in Python and handles tricky cases like left-recursive rules.
+A PEG parser generator that converts EBNF grammars into executable Python code. Unlike other systems, it can handle rules that reference themselves directly without infinite loops, and it builds clean Abstract Syntax Trees (ASTs) for analyzing complex data.
 
 ## Web & Libraries
 
@@ -76,6 +77,13 @@ When regular expressions aren't enough for nested or recursive data, TatSu gener
 **Creator:** [danestves](https://github.com/danestves)
 
 This plugin adds Auth0 support to Remix apps by handling the entire OAuth2 cycle. It gives you full control over tokens and session cookies, making it easier to drop enterprise-level security into your web projects.
+
+## Mobile Apps
+
+### [BoomingMusic](https://github.com/mardous/BoomingMusic)
+**Creator:** [mardous](https://github.com/mardous)
+
+A clean, fast, and feature-rich music player for Android with a modern Material You design. It offers support for word-by-word synchronized lyrics (TTML/LRC), a 15-band equalizer with AutoEq profiles, and native Android Auto integration.
 
 ## OSINT & Social
 
