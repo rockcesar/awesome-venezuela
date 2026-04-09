@@ -1,5 +1,7 @@
 # Awesome Venezuela 🇻🇪
 
+[Leer en Español](README.es.md)
+
 A collection of open-source projects built by developers from Venezuela. This is a showcase of the talent and interesting work coming out of the Venezuelan dev community across different fields.
 
 ## Contents
@@ -78,4 +80,6 @@ These projects are either archived, inactive, or considered legacy.
 
 ## Contributing
 
-If you are Venezuelan and have an open-source project you'd like to showcase, please feel free to open a Pull Request for it to be considered!
+Please read the [Contributing Guidelines](CONTRIBUTING.md) for details on how to add your project to this list and the criteria that apply. By participating, you also agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+Thank you for helping to showcase Venezuelan talent!

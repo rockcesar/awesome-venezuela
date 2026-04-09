@@ -1,5 +1,7 @@
 # Awesome Venezuela 🇻🇪
 
+[Read in English](README.md)
+
 Una colección de proyectos open-source creados por developers de Venezuela. Este es un showcase del talento y los proyectos open-source interesantes que surgen de la comunidad dev venezolana en diferentes áreas de la tecnología.
 
 ## Contenido
@@ -76,6 +78,8 @@ Estos proyectos están archivados, inactivos o se consideran legacy.
 | [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Sistema operativo x86 experimental y Forth interpreter construido desde cero. | Hace 17 años |
 | [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Framework de configuración modular para Neovim. Actualmente en un proceso importante de refactor y rewrite. | Hace 3 años |
 
-## Contributing
+## Contribuir
 
-Si eres venezolano y tienes un proyecto open-source que te gustaría mostrar, por favor,  ¡Siéntete libre de abrir un Pull Request para que sea considerado!
+Por favor, lee las [Guías de Contribución](CONTRIBUTING.es.md) para conocer los detalles sobre cómo añadir un proyecto a esta lista y los criterios que se aplican. Al participar, también aceptas cumplir con el [Código de Conducta](CODE_OF_CONDUCT.es.md).
+
+¡Gracias por ayudar a mostrar el talento venezolano!
