@@ -1,7 +1,7 @@
 # Awesome Venezuela 🇻🇪
 
 <p align="center">
-  <img src="BANNER_AV.png" alt="Awesome Venezuela">
+  <img src="BANNER_AV.png" alt="Awesome Venezuela" width="400">
 </p>
 
 <p align="center">
@@ -13,7 +13,11 @@
   </a>
 </p>
 
-[Leer en Español](README.es.md)
+<p align="center">
+  <a href="README.es.md">
+    <img src="https://img.shields.io/badge/Leer%20en-Español-eedd00?style=for-the-badge&logo=google-translate&logoColor=black" alt="Leer en Español">
+  </a>
+</p>
 
 A collection of open-source projects built by developers from Venezuela. This is a showcase of the talent and interesting work coming out of the Venezuelan dev community across different fields.
 
