@@ -29,6 +29,7 @@ Una colección de proyectos open-source creados por developers de Venezuela. Est
 - [Web y Librerías](#web-y-librerías)
 - [Aplicaciones Móviles](#aplicaciones-móviles)
 - [OSINT y Social](#osint-y-social)
+- [Creadores de Contenido](#creadores-de-contenido)
 - [Proyectos Legacy e Inactivos](#proyectos-legacy-e-inactivos)
 
 ## Sistemas y Runtimes
@@ -103,6 +104,17 @@ Estos proyectos están archivados, inactivos o se consideran legacy.
 | [Turpial](https://github.com/satanas/Turpial) | [satanas](https://github.com/satanas) | Client de microblogging ligero con interfaces Gtk, Qt y CLI. | Hace 10 años |
 | [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Sistema operativo x86 experimental y Forth interpreter construido desde cero. | Hace 17 años |
 | [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Framework de configuración modular para Neovim. Actualmente en un proceso importante de refactor y rewrite. | Hace 3 años |
+
+## Creadores de Contenido
+
+### [DaveOps](https://www.youtube.com/@DaveOps/)
+Contenido técnico sobre DevOps, Cloud y herramientas de infraestructura.
+
+### [Daniela Barazarte (Ingeniela)](https://www.youtube.com/@ingeniela/)
+Ingeniería de software y comunicación tecnológica. Co-fundadora de Innovamente.
+
+### [AnibalOS](https://www.youtube.com/@AnibalOS/)
+Exploración de Homelab, Self-Hosting, Linux y automatización.
 
 ## Contribuir
 

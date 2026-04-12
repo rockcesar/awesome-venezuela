@@ -29,6 +29,7 @@ A collection of open-source projects built by developers from Venezuela. This is
 - [Web & Libraries](#web--libraries)
 - [Mobile Apps](#mobile-apps)
 - [OSINT & Social](#osint--social)
+- [Content Creators](#content-creators)
 - [Legacy & Inactive Projects](#legacy--inactive-projects)
 
 ## Systems & Runtimes
@@ -91,6 +92,17 @@ A clean, fast, and feature-rich music player for Android with a modern Material 
 **Creator:** [Doble-2](https://github.com/Doble-2)
 
 Sweep through usernames and emails across dozens of sources with this intelligence tool. It uses an asynchronous pipeline and AI to turn raw data into structured profiles, which you can then export as polished PDF or HTML reports.
+
+## Content Creators
+
+### [DaveOps](https://www.youtube.com/@DaveOps/)
+Technical documentation and tutorials regarding DevOps, Cloud, and infrastructure.
+
+### [Daniela Barazarte (Ingeniela)](https://www.youtube.com/@ingeniela/)
+Software engineering and technology education. Co-founder of Innovamente.
+
+### [AnibalOS](https://www.youtube.com/@AnibalOS/)
+Technical demonstrations of homelab, self-hosting, Linux, and automation.
 
 ## Legacy & Inactive Projects
 
