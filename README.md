@@ -81,6 +81,16 @@ A PEG parser generator that converts EBNF grammars into executable Python code. 
 
 This plugin adds Auth0 support to Remix apps by handling the entire OAuth2 cycle. It gives you full control over tokens and session cookies, making it easier to drop enterprise-level security into your web projects.
 
+### [RIF-PHP](https://github.com/3rn3st0/rif-php)
+**Creator:** [3rn3st0](https://github.com/3rn3st0)
+
+A professional PHP library to validate, format and generate RIF (Tax Information Registry) numbers from Venezuela. In this project, all documentation is in Spanish.
+
+### [User Auditable for Laravel](https://github.com/3rn3st0/user-auditable-for-laravel)
+**Creator:** [3rn3st0](https://github.com/3rn3st0)
+
+A Laravel package that provides user auditing capabilities for your database tables and Eloquent models. Easily track which users create, update, and delete records in your application.
+
 ## Mobile Apps
 
 ### [BoomingMusic](https://github.com/mardous/BoomingMusic)
