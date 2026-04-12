@@ -81,6 +81,16 @@ Generador de parsers PEG que convierte gramáticas EBNF en código Python ejecut
 
 Este plugin añade soporte de Auth0 a las apps de Remix manejando todo el ciclo de OAuth2. Te da control total sobre los tokens y las session cookies, haciendo más fácil integrar seguridad de nivel enterprise en los proyectos web.
 
+### [RIF-PHP](https://github.com/3rn3st0/rif-php)
+**Creador:** [3rn3st0](https://github.com/3rn3st0)
+
+Librería de PHP para validar, formatear y generar números de RIF (Registro de Información Fiscal) de Venezuela. Toda la documentación está disponible en español.
+
+### [User Auditable for Laravel](https://github.com/3rn3st0/user-auditable-for-laravel)
+**Creador:** [3rn3st0](https://github.com/3rn3st0)
+
+Paquete de Laravel que proporciona capacidades de auditoría para tablas de base de datos y modelos de Eloquent. Permite rastrear qué usuarios crean, actualizan y eliminan registros en la aplicación.
+
 ## Aplicaciones Móviles
 
 ### [BoomingMusic](https://github.com/mardous/BoomingMusic)
