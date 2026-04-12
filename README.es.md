@@ -29,8 +29,8 @@ Una colección de proyectos open-source creados por developers de Venezuela. Est
 - [Web y Librerías](#web-y-librerías)
 - [Aplicaciones Móviles](#aplicaciones-móviles)
 - [OSINT y Social](#osint-y-social)
-- [Creadores de Contenido](#creadores-de-contenido)
 - [Repositorios y Recursos Sugeridos](#repositorios-y-recursos-sugeridos)
+- [Creadores de Contenido](#creadores-de-contenido)
 - [Proyectos Legacy e Inactivos](#proyectos-legacy-e-inactivos)
 
 ## Sistemas y Runtimes
@@ -102,17 +102,6 @@ Tool de OSINT que reúne información pública basada en usernames y emails. Uti
 
 Archivo histórico y open-source que documenta la industria nacional de videojuegos desde 1983 hasta hoy. Es un proyecto sin fines de lucro basado en cinco años de investigación y publicado bajo una filosofía de dominio público.
 
-## Proyectos Legacy e Inactivos
-
-Estos proyectos están archivados, inactivos o se consideran legacy.
-
-| Proyecto | Creador | Descripción | Última Actividad |
-| :--- | :--- | :--- | :--- |
-| [Hunter](https://github.com/milmazz/hunter) | [milmazz](https://github.com/milmazz) | Librería client de Elixir para Mastodon y plataformas compatibles con GNU social. | Hace 4 años |
-| [Turpial](https://github.com/satanas/Turpial) | [satanas](https://github.com/satanas) | Client de microblogging ligero con interfaces Gtk, Qt y CLI. | Hace 10 años |
-| [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Sistema operativo x86 experimental y Forth interpreter construido desde cero. | Hace 17 años |
-| [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Framework de configuración modular para Neovim. Actualmente en un proceso importante de refactor y rewrite. | Hace 3 años |
-
 ## Creadores de Contenido
 
 ### [DaveOps](https://www.youtube.com/@DaveOps/)
@@ -123,6 +112,17 @@ Ingeniería de software y comunicación tecnológica. Co-fundadora de Innovament
 
 ### [AnibalOS](https://www.youtube.com/@AnibalOS/)
 Exploración de Homelab, Self-Hosting, Linux y automatización.
+
+## Proyectos Legacy e Inactivos
+
+Estos proyectos están archivados, inactivos o se consideran legacy.
+
+| Proyecto | Creador | Descripción | Última Actividad |
+| :--- | :--- | :--- | :--- |
+| [Hunter](https://github.com/milmazz/hunter) | [milmazz](https://github.com/milmazz) | Librería client de Elixir para Mastodon y plataformas compatibles con GNU social. | Hace 4 años |
+| [Turpial](https://github.com/satanas/Turpial) | [satanas](https://github.com/satanas) | Client de microblogging ligero con interfaces Gtk, Qt y CLI. | Hace 10 años |
+| [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Sistema operativo x86 experimental y Forth interpreter construido desde cero. | Hace 17 años |
+| [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Framework de configuración modular para Neovim. Actualmente en un proceso importante de refactor y rewrite. | Hace 3 años |
 
 ## Contribuir
 

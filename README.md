@@ -29,8 +29,8 @@ A collection of open-source projects built by developers from Venezuela. This is
 - [Web & Libraries](#web--libraries)
 - [Mobile Apps](#mobile-apps)
 - [OSINT & Social](#osint--social)
+- [Suggested Repositories & Resources](#suggested-repositories--resources)
 - [Content Creators](#content-creators)
-- [Featured Repositories & Resources](#featured-repositories--resources)
 - [Legacy & Inactive Projects](#legacy--inactive-projects)
 
 ## Systems & Runtimes
@@ -65,8 +65,9 @@ Mostro runs a decentralized P2P exchange on top of the Lightning Network and Nos
 Manage FreeBSD jails as easily as modern containers with this orchestration framework. It automates complex networking and deployment tasks through a modular setup that doesn't mess with your host's core configuration.
 
 ### [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages)
+**Creator:** [Samueru-sama](https://github.com/Samueru-sama)
 
-These AppImages are designed to run on practically any Linux distro, even ancient ones. They bundle every single dependency and use a smart fallback system to ensure software keeps working regardless of the host's setup.
+These AppImages are designed to run on virtually any Linux distro, even ancient ones. Each image bundles all necessary dependencies and uses a smart fallback system to ensure software keeps working regardless of the host setup.
 
 ### [TatSu](https://github.com/neogeny/TatSu)
 **Creator:** [apalala](https://github.com/apalala)
@@ -94,6 +95,13 @@ A clean, fast, and feature-rich music player for Android with a modern Material 
 
 Sweep through usernames and emails across dozens of sources with this intelligence tool. It uses an asynchronous pipeline and AI to turn raw data into structured profiles, which you can then export as polished PDF or HTML reports.
 
+## Suggested Repositories & Resources
+
+### [Venezuela Juega](https://github.com/aesthezel/venezuela-juega)
+**Website:** [venezuelajuega.com](https://venezuelajuega.com) | **Creator:** [aesthezel](https://github.com/aesthezel/)
+
+An open-source historical archive documenting the Venezuelan video game industry from 1983 to the present. Built on five years of deep research, the project is nonprofit and released under a public domain philosophy.
+
 ## Content Creators
 
 ### [DaveOps](https://www.youtube.com/@DaveOps/)
@@ -115,13 +123,6 @@ These projects are either archived, inactive, or considered legacy.
 | [Turpial](https://github.com/satanas/Turpial) | [satanas](https://github.com/satanas) | Lightweight microblogging client with Gtk, Qt, and CLI interfaces. | 10 years ago |
 | [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Experimental x86 operating system and Forth interpreter built from the ground up. | 17 years ago |
 | [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Modular configuration framework for Neovim. Currently undergoing a major refactor and rewrite. | 3 years ago |
-
-## Featured Repositories & Resources
-
-### [Venezuela Juega](https://github.com/aesthezel/venezuela-juega)
-**Website:** [venezuelajuega.com](https://venezuelajuega.com) | **Creator:** [aesthezel](https://github.com/aesthezel/)
-
-An open-source historical archive documenting the Venezuelan video game industry from 1983 to the present. Built on five years of deep research, the project is non-profit and released under a public domain philosophy.
 
 ## Contributing
 
