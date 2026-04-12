@@ -30,6 +30,7 @@ Una colección de proyectos open-source creados por developers de Venezuela. Est
 - [Aplicaciones Móviles](#aplicaciones-móviles)
 - [OSINT y Social](#osint-y-social)
 - [Creadores de Contenido](#creadores-de-contenido)
+- [Repositorios y Recursos Sugeridos](#repositorios-y-recursos-sugeridos)
 - [Proyectos Legacy e Inactivos](#proyectos-legacy-e-inactivos)
 
 ## Sistemas y Runtimes
@@ -93,6 +94,13 @@ Reproductor de música para Android ligero, rápido y repleto de funciones con u
 **Creador:** [Doble-2](https://github.com/Doble-2)
 
 Tool de OSINT que reúne información pública basada en usernames y emails. Utiliza un pipeline asíncrono e IA para analizar la raw data y generar perfiles estructurados, permitiendo la exportación de los resultados a formato PDF o HTML.
+
+## Repositorios y Recursos Sugeridos
+
+### [Venezuela Juega](https://github.com/aesthezel/venezuela-juega)
+**Web:** [venezuelajuega.com](https://venezuelajuega.com) | **Creador:** [aesthezel](https://github.com/aesthezel/)
+
+Archivo histórico y open-source que documenta la industria nacional de videojuegos desde 1983 hasta hoy. Es un proyecto sin fines de lucro basado en cinco años de investigación y publicado bajo una filosofía de dominio público.
 
 ## Proyectos Legacy e Inactivos
 

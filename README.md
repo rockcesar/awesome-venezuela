@@ -30,6 +30,7 @@ A collection of open-source projects built by developers from Venezuela. This is
 - [Mobile Apps](#mobile-apps)
 - [OSINT & Social](#osint--social)
 - [Content Creators](#content-creators)
+- [Featured Repositories & Resources](#featured-repositories--resources)
 - [Legacy & Inactive Projects](#legacy--inactive-projects)
 
 ## Systems & Runtimes
@@ -114,6 +115,13 @@ These projects are either archived, inactive, or considered legacy.
 | [Turpial](https://github.com/satanas/Turpial) | [satanas](https://github.com/satanas) | Lightweight microblogging client with Gtk, Qt, and CLI interfaces. | 10 years ago |
 | [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Experimental x86 operating system and Forth interpreter built from the ground up. | 17 years ago |
 | [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Modular configuration framework for Neovim. Currently undergoing a major refactor and rewrite. | 3 years ago |
+
+## Featured Repositories & Resources
+
+### [Venezuela Juega](https://github.com/aesthezel/venezuela-juega)
+**Website:** [venezuelajuega.com](https://venezuelajuega.com) | **Creator:** [aesthezel](https://github.com/aesthezel/)
+
+An open-source historical archive documenting the Venezuelan video game industry from 1983 to the present. Built on five years of deep research, the project is non-profit and released under a public domain philosophy.
 
 ## Contributing
 
