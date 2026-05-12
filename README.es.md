@@ -47,11 +47,6 @@ Creado para el desarrollo asistido por IA, este microkernel utiliza un enfoque e
 
 ## P2P y Finanzas
 
-### [Chitty BCV API](https://github.com/chitty400/chitty-bcv-api)
-**Creador:** [chitty400](https://github.com/chitty400)
-
-API pública que expone datos del INPC más allá de solo la tasa BCV del día. Es la única API conocida que entrega inflación. Actualiza de madrugada, evitando que si el BCV actualiza la tasa de mañana desde hoy a las 4 pm y luego la cambia a las 6 pm, quede mal
-
 ### [LNp2pBot](https://github.com/lnp2pBot/bot)
 **Creador:** [grunch](https://github.com/grunch)
 
@@ -61,6 +56,11 @@ Este bot de Telegram maneja trades de Bitcoin peer-to-peer usando la Lightning N
 **Creador:** [grunch](https://github.com/grunch)
 
 Mostro ejecuta un exchange P2P descentralizado sobre la Lightning Network y Nostr. Se enfoca en la resistencia a la censura y la privacidad, permitiendo un trading libre de KYC con un sistema de disputas integrado que funciona sin una autoridad central.
+
+### [Chitty BCV API](https://github.com/chitty400/chitty-bcv-api)
+**Creador:** [chitty400](https://github.com/chitty400)
+
+API pública que expone datos del INPC más allá de solo la tasa BCV del día. Es la única API conocida que entrega inflación. Actualiza de madrugada, evitando que si el BCV actualiza la tasa de mañana desde hoy a las 4 pm y luego la cambia a las 6 pm, quede mal
 
 ## DevOps y Tools
 
