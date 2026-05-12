@@ -57,6 +57,11 @@ This Telegram bot handles peer-to-peer Bitcoin trades using the Lightning Networ
 
 Mostro runs a decentralized P2P exchange on top of the Lightning Network and Nostr. It focuses on censorship resistance and privacy, enabling KYC-free trading with a built-in dispute system that works without a central authority.
 
+### [Chitty BCV API](https://github.com/chitty400/chitty-bcv-api)
+**Creador:** [chitty400](https://github.com/chitty400)
+
+A public API that provides INPC (CPI) data beyond just the daily BCV rate. It is the only known API that delivers inflation figures. It updates in the early morning hours, ensuring accuracy even if the BCV publishes tomorrow's rate at 4 PM and subsequently modifies it at 6 PM.
+
 ## DevOps & Tools
 
 ### [AppJail](https://github.com/DtxdF/AppJail)
